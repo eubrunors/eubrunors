@@ -6,6 +6,9 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunors&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  Linguagens de Programação:
+
+
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/840348212530511900/996799072960774184/eubrunors.png">
 </div>
