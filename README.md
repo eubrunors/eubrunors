@@ -16,7 +16,7 @@
   ##
  
 <div>
-  - 📫 Conecte-se a mim...
+  📫 Conecte-se a mim...
   <a href=https://www.youtube.com/channel/UCOPiUJSxV6Y7kZlE_PUpP-g target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href=https://www.instagram.com/_brunoors/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bruno.2013.br11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
