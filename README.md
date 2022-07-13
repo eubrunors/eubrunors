@@ -1,9 +1,12 @@
 ##  Olá! Eu sou o Bruno Ribeiro, estudante de Ciências da Computação
 ### Acompanhe meus projetos!
+
 <div align="center">
   <a href="https://github.com/eubrunors">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eubrunors&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunors&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   Linguagens de Programação:
 
