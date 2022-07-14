@@ -1,18 +1,21 @@
-##  Olá! Eu sou o Bruno Ribeiro, estudante de Ciências da Computação
+<img src="https://cdn.discordapp.com/attachments/971563975953236018/996957100859211826/helo1.jpg" alt="Imagem mostrando helo world">
+
+##  Olá! Eu sou o Bruno Ribeiro, estudante de Ciências da Computação 💻
+
 ### Acompanhe meus projetos!
 
 <div align="center">
   <a href="https://github.com/eubrunors">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eubrunors&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunors&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=eubrunors&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunors&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
   Linguagens de Programação:
 
-
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/840348212530511900/996799072960774184/eubrunors.png">
+  <img align="center" alt="Bruno-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/840348212530511900/996799072960774184/eubrunors.png">
+  
 </div>
   
   ##
@@ -26,7 +29,6 @@
   <a href = "mailto:bruno.2013.br11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 
 </div>
-
 
 <!---
 eubrunors/eubrunors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
