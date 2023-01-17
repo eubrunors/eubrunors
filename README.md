@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/971563975953236018/996957100859211826/helo1.jpg" alt="Imagem mostrando helo world">
 
-##  Olá! Eu sou o Bruno Silveira, estudante de Ciências da Computação 
+##  Olá! Eu sou o Bruno Silveira, estudante de Ciência da Computação 
 
 ### Acompanhe meus projetos!
 
